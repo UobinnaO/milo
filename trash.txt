@@ -1,0 +1,10 @@
+In short, no - it's not possible with Toga's layout at present. Toga's layout system is primarily designed for putting widgets "next to" each other, not as overlays.
+
+If you need text on an image, my suggestion at present would be to use Pillow to add text to the image that is displayed in an ImageView.
+
+
+
+lets be very general here. 
+In Unix everything is a file. 
+In a video editor, everything is a clip on a timeline
+In 3d video games, everything is ?  
